@@ -1,0 +1,30 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+  
+}
+
+.card {
+  background-color: #eee;
+  padding: 2rem;
+  border-radius: 8px;
+  width: 200px;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+
+}
+
+.card:hover {
+  background-color: #ddd;
+}

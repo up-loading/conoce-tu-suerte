@@ -10,3 +10,24 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# Conoce tu suerte - Prototipo MVP
+
+Este repositorio contiene el prototipo funcional mínimo de un juego interactivo de decisiones basado en cartas.
+
+## Tecnologías
+
+- React
+- JavaScript (ES6)
+- CSS
+
+## Cómo ejecutar
+
+1. Clonar el repositorio:
+https://github.com/up-loading/conoce-tu-suerte
+
+2. Entrar a la carpeta:
+
+3. Instalar dependencias:
+
+5. Abrir en el navegador:

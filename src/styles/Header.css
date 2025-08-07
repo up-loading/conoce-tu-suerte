@@ -1,0 +1,19 @@
+header {
+  background-color: #222222df;
+  color: #fff;
+height: 82px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+header a {
+  color: #fff;
+  margin-left: 1rem;
+  font-size: 2em;
+  text-decoration: none;
+}
+h1{
+    margin-left:20px ;
+}
